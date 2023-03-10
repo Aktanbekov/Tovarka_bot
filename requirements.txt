@@ -1,0 +1,9 @@
+aiogram
+psycopg2-binary
+environs
+openpyxl
+asyncio
+pymysql
+pandas
+sqlalchemy
+python-decouple
